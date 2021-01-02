@@ -1,0 +1,144 @@
+.First{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.about{
+    padding-left:20px ;
+    font-size: 20px;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    color: black;
+    
+}
+.contacts{
+    
+    color: white;
+    padding-bottom: 40%;
+    padding-top: 5%;
+    height: 300px;
+    text-align: center;
+}
+.photo{
+    height: 65%;
+    border-radius: 3px;
+    width: 65%;
+    padding-left: 35%;
+}
+.name{
+    padding-top: 20px;
+}
+.interests{
+    padding-right: 20%;
+    
+}
+.p-contact{font-size: large;}
+.backgroundimage{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZUkstlma6IYaUK-cCveVCIIUqNpA3uVo0Q&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-left: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.row {
+    display: flex;
+    padding: 20px;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 40px;
+    
+}
+
+.row1 {
+    display: flex;
+    padding: 20px;
+}
+
+.column1 {
+    flex: 33.33%;
+    padding: 30px;
+}
+
+.row2 {
+    display: flex;
+}
+
+.column2 {
+    flex: 33.33%;
+    padding: 10px;
+}
+
+.row3 {
+    display: flex;
+}
+
+.column3 {
+    flex: 33.33%;
+    padding: 10px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-instagram {
+    background: #8a3ab9;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-github {
+    background: #000;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-whatsapp {
+    background: #25d366;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-mobile {
+    background: #25d366;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-envelope {
+    background: #EA4335;
+    color: white;
+    border-radius: 10px;
+}
